@@ -1,0 +1,9 @@
+pytz
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pyttsx3
+selenium
+undetected_chromedriver
+setuptools
+webdriver_manager
